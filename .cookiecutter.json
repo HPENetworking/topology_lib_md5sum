@@ -1,0 +1,11 @@
+{
+    "library_name": "topology_lib_md5sum",
+    "author": "maria alas",
+    "email": "maria.alas@hpe.com",
+    "repo_url": "git@github.com:maralas/md5sum.git",
+    "doc_url": "git@github.com:maralas/md5sum.git/tree/master/doc",
+    "project_name": "md5sum Communication Library for Topology",
+    "short_description": "This library is for execute md5sum command in bash",
+    "year": "2016",
+    "version": "0.1.0"
+}
